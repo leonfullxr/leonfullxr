@@ -12,7 +12,7 @@ I'm a Computer Engineering student who loves programming, creating games, and wo
 - 📫 How to reach me: l.elliottfuller@gmail.com
 
 ## Skills
-- :computer: Programming languages: Python, C++, C, Java, Ruby, and JavaScript
+- :computer: Programming languages: Python, C++, C, Java, SQL, and Ruby
 - :wrench: Frameworks & Libraries: Unity, Godot, React, and TensorFlow
 - :construction_worker: Project Management: Scrum, and Trello
 
