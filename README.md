@@ -5,7 +5,7 @@
 :seedling: I’m currently **learning Machine Learning & AI**<br>
 :earth_americas: I’m looking to collaborate on whatever I can get my hands on<br>
 📫 How to reach me **l.elliottfuller@gmail.com**<br>
-📄 Know about my experiences [https://drive.google.com/file/d/1eHPBuWvotxka2MEYuwhVWolxgb8Nrb6i/view?usp=sharing](https://drive.google.com/file/d/1eHPBuWvotxka2MEYuwhVWolxgb8Nrb6i/view?usp=sharing)
+📄 Know about my [experiences](https://drive.google.com/file/d/1eHPBuWvotxka2MEYuwhVWolxgb8Nrb6i/view?usp=sharing)
 
 
 ## 🌐 Socials:
