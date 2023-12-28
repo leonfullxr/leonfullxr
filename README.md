@@ -1,5 +1,5 @@
 # 💫 About Me:
-:mortar_board: Studying Computer Engineering (2º Year)<br>
+:mortar_board: Studying Computer Engineering (3º Year)<br>
 :video_game: Passionate about game development and programming<br>
 :rocket: Always looking for new challenges and opportunities to grow<br>
 :seedling: I’m currently **learning Machine Learning & AI**<br>
