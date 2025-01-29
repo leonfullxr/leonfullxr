@@ -1,4 +1,4 @@
-# Hi 😄:
+# Hi 😄
 :mortar_board: Studying Computer Engineering (4º Year)<br>
 :seedling: I’m currently **learning AI, focused on Deep Learning and Cybersecurity**<br>
 🔐 Working on my **CompTIA Security+** certificate<br>
