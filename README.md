@@ -1,6 +1,6 @@
 # Hi 😄
 :mortar_board: Studying Computer Engineering abroad at AGH University of Krakow, Poland (4º Year)<br>
-🏢 Working at @Wazuh<br>
+🏢 Working at @wazuh<br>
 :seedling: I’m currently **learning AI, focused on Deep Learning and Cybersecurity**<br>
 🔐 Working on my **CompTIA Security+** certificate<br>
 📫 How to reach me **l.elliottfuller@gmail.com**<br>
