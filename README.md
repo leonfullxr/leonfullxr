@@ -10,4 +10,10 @@
 📫 Send your pigeon messages or digital owls to **l.elliottfuller@gmail.com**<br>
 🪧 [My Wesbite](https://leonfullxr.github.io/MyWebsite/)—no cookies included<br>
 
+# Technical Skills
+* Fluent in Stack Overflow dialect *(read-only mode)*
+* Advanced Googling Certification *(PhD level, pending final exam)*
+* Certified "Turning-it-off-and-on-again" expert
+* Dockerizing existential crises (containers still occasionally leak)
+
 If ‘Commit and Hope’ becomes an industry-standard methodology, I’m switching to Arch.
