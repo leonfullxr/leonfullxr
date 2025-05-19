@@ -9,3 +9,5 @@
 ✍️ Finishing my Final Thesis on [**Elliptic Curve Cryptography**](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography). Plot twist: It’s not about circles.<br>
 📫 Send your pigeon messages or digital owls to **l.elliottfuller@gmail.com**<br>
 🪧 [My Wesbite](https://leonfullxr.github.io/MyWebsite/)—no cookies included<br>
+
+If ‘Commit and Hope’ becomes an industry-standard methodology, I’m switching to Arch.
