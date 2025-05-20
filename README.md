@@ -1,5 +1,4 @@
 # Hi 😄
-"The clock is round in both directions, but debugging at 2 AM feels suspiciously linear."
 
 🧘 Completed over 500h of meditation after discovering memory leaks.<br>
 :mortar_board: Studying Computer Engineering abroad at [AGH University of Krakow](https://www.agh.edu.pl/) (4º Year)<br>
