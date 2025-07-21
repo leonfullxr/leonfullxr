@@ -11,8 +11,7 @@
 
 # Technical Skills
 * Fluent in Stack Overflow dialect *(read-only mode)*
-* Advanced Googling Certification *(PhD level, pending final exam)*
-* Certified "Turning-it-off-and-on-again" expert
-* Dockerizing existential crises (containers still occasionally leak)
+* Advanced Googling Certification
+* Certified Turning it off and on again expert
 
 If ‘Commit and Hope’ becomes an industry-standard methodology, I’m switching to Arch.
