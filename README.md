@@ -14,8 +14,6 @@
 * Advanced Googling Certification
 * Certified Turning it off and on again expert
 
-If ‘Commit and Hope’ becomes an industry-standard methodology, I’m switching to Arch.
-
 ## Badges
 
 <b>My GitHub Stats</b>
